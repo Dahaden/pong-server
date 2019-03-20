@@ -1,0 +1,96 @@
+{
+  "a": [
+    {
+      "paddleHitCounter": 22,
+      "consecutiveGame": true,
+      "score": {
+        "left": 0,
+        "right": 3
+      },
+      "didAIWin": false
+    },
+    {
+      "paddleHitCounter": 57,
+      "consecutiveGame": false,
+      "score": {
+        "left": 1,
+        "right": 3
+      },
+      "didAIWin": false
+    },
+    {
+      "paddleHitCounter": 20,
+      "consecutiveGame": true,
+      "score": {
+        "left": 0,
+        "right": 3
+      },
+      "didAIWin": false
+    },
+    {
+      "paddleHitCounter": 20,
+      "consecutiveGame": true,
+      "score": {
+        "left": 1,
+        "right": 3
+      },
+      "didAIWin": false
+    }
+  ],
+  "b": [
+    {
+      "paddleHitCounter": 20,
+      "consecutiveGame": false,
+      "score": {
+        "left": 3,
+        "right": 0
+      },
+      "didAIWin": true
+    },
+    {
+      "paddleHitCounter": 15,
+      "consecutiveGame": false,
+      "score": {
+        "left": 3,
+        "right": 0
+      },
+      "didAIWin": true
+    },
+    {
+      "paddleHitCounter": 23,
+      "consecutiveGame": true,
+      "score": {
+        "left": 3,
+        "right": 0
+      },
+      "didAIWin": true
+    },
+    {
+      "paddleHitCounter": 1,
+      "consecutiveGame": true,
+      "score": {
+        "left": 3,
+        "right": 0
+      },
+      "didAIWin": true
+    },
+    {
+      "paddleHitCounter": 3,
+      "consecutiveGame": false,
+      "score": {
+        "left": 3,
+        "right": 0
+      },
+      "didAIWin": true
+    },
+    {
+      "paddleHitCounter": 9,
+      "consecutiveGame": true,
+      "score": {
+        "left": 3,
+        "right": 1
+      },
+      "didAIWin": true
+    }
+  ]
+}

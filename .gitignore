@@ -1,3 +1,4 @@
 dist
 node_modules
-static
+static/js
+postgres_volume
